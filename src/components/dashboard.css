@@ -1,0 +1,38 @@
+.toolbar {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    background: #ffc107;
+    height: 56px;
+}
+
+.navbar-nav{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    width: 80px;
+}
+.nav-item{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    width: 80px;
+}
+.navbar{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    width: 80px;
+}
+
+.logo {
+    display: block;
+  margin-left: 0;
+  margin-right: auto;
+  width: 130px;
+  padding-bottom: 30px;
+}
+
+
+
